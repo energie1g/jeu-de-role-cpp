@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="-1" width="40" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="jeuderole.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="40" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztljsSwCAIRLmNdWa8/9mS2lHCZ3egsNjGOPiAFTNEZHx6mmksisSYGyHYZpJL41zzjtSAkS863l/PLb5A9NDrScZezQtVfCfvdeE77a3i0zy5rkfv0i7+aU5k+KKynNmNT6unJ252Zlv5EHkz68fgs97nCI+lT9p3z7xB8ll9huLLvLvI/iL2RPuCOpv5LrH5tFmH+Ge/4vS0iqs73ws0QrMp
+  </data>
+ </layer>
+</map>
